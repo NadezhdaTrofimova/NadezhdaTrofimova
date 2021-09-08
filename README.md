@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there , I'm Nadja 👋 
 
-<!--
-**NadezhdaTrofimova/NadezhdaTrofimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:star: I am beginner Front-end developer.
 
-Here are some ideas to get you started:
+:star: This working attracts me because it has social significance and unlimited opportunities for professional growth.
+I would like to became a developer to use my strengths like fast learning, versatile, active and self-motivated.
+Now I studying and improving knowledge and skills in JavaScript and React which will be are enough to employment in the company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+### Skills
+
+:ballot_box_with_check: JavaScript  
+:ballot_box_with_check: React  
+:ballot_box_with_check: HTML, CSS  
+:ballot_box_with_check: git  
+
+***
+
+### Languages
+:ru: Russian - native  
+:us: English - Pre-Intermediate  
+:de: German - Intermediate
+
+***
+
+### Hobby
+
+🤸 Capoeira  
+📖 Reading  
+:runner: Running  
