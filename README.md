@@ -19,6 +19,7 @@ Telegram: [@TNadezhda_1991](https://t.me/TNadezhda_1991)
 
 :ballot_box_with_check: JavaScript
 :ballot_box_with_check: React
-:ballot_box_with_check: HTML, CSS
+:ballot_box_with_check: HTML
+:ballot_box_with_check: CSS
 :ballot_box_with_check: git
 
